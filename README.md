@@ -4,14 +4,14 @@
 Olá, meu nome é Alexandre Loiola e sou Analista de Sistemas. Atualmente, estou me formando no curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe. Meu foco principal é desenvolvimento web fullstack e estou sempre buscando novas oportunidades para expandir minhas habilidades em Java.
 </p>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/AlexandreLoiola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/AlexandreLoiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/AlexandreLoiola-backend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_alexandre_loiola_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexadre.loiola.741@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a 
 </div>
 
 <br>
 
-### Habilidades
+### Principais Habilidades
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
