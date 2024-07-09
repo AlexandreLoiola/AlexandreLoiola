@@ -4,7 +4,8 @@
 Sou Alexandre Loiola, um Programador Full Stack com 5 anos de experiência, com especialização em desenvolvimento Backend utilizando Java EE. Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sergipe (IFS).
 </p>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/AlexandreLoiola-backend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/AlexandreLoiola-backend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/AlexandreLoiola/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
   <a href="https://instagram.com/_alexandre_loiola_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:alexadre.loiola.741@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a 
 </div>
